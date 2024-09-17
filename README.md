@@ -1,4 +1,4 @@
 # GCAF_DynAIRx
-This is framework created by Asra forCodelist Paper
+This is framework created by Asra for Codelist Paper
 
-![Logo](/others/GCAF_Framework.png)
+![Generalised Codelist Automation Framework (GCAF)](/others/GCAF_Framework.png)
