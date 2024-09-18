@@ -1,0 +1,13 @@
+Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
+Thrombophilia,42jH.00,30873.0,Activated protein C with factor V deficient plasma,Diagnosis of Thrombophilia,999311000000101
+Thrombophilia,42Qc.00,23134.0,Plasma activated protein C resistance,Diagnosis of Thrombophilia,993351000000100
+Thrombophilia,42Qe.00,8674.0,Factor V Leiden genotype,Diagnosis of Thrombophilia,993371000000109
+Thrombophilia,43GE100,107447.0,Lupus anticoagulant positive,Diagnosis of Thrombophilia,
+Thrombophilia,D303700,25971.0,Factor V Leiden mutation,Diagnosis of Thrombophilia,307091009
+Thrombophilia,D303800,44146.0,Homozygous factor V Leiden mutation,Diagnosis of Thrombophilia,307115002
+Thrombophilia,D303900,32933.0,Heterozygous factor V Leiden mutation,Diagnosis of Thrombophilia,307116001
+Thrombophilia,D309.00,8479.0,Protein S deficiency,Diagnosis of Thrombophilia,1563006
+Thrombophilia,D30A000,105875.0,Primary thrombophilia,Diagnosis of Thrombophilia,439698008
+Thrombophilia,D30A.00,7516.0,Thrombophilia,Diagnosis of Thrombophilia,234467004
+Thrombophilia,D30B.00,26102.0,Protein C deficiency,Diagnosis of Thrombophilia,76407009
+Thrombophilia,N006.00,12177.0,Antiphospholipid syndrome,Diagnosis of Thrombophilia,26843008

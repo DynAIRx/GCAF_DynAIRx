@@ -1,0 +1,29 @@
+Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
+Acne,2FG5.00,17895.0,Acne scar,Diagnosis of Acne,247459000
+Acne,M260000,10183.0,Acne frontalis,Diagnosis of Acne,23894009
+Acne,M260.00,48105.0,Acne varioliformis,Diagnosis of Acne,23894009
+Acne,M260z00,54566.0,Acne varioliformis NOS,Diagnosis of Acne,23894009
+Acne,M260z11,20164.0,Acne necrotica,Diagnosis of Acne,45072005
+Acne,M261000,379.0,Acne vulgaris,Diagnosis of Acne,88616000
+Acne,M261011,8065.0,Blackhead,Diagnosis of Acne,247467008
+Acne,M261012,15609.0,Comedo,Diagnosis of Acne,238744006
+Acne,M261100,9008.0,Acne conglobata,Diagnosis of Acne,42228007
+Acne,M261200,107861.0,Bromine acne,Diagnosis of Acne,201215003
+Acne,M261300,55983.0,Chlorine acne,Diagnosis of Acne,83684005
+Acne,M261400,67453.0,Iodine acne,Diagnosis of Acne,201217006
+Acne,M261500,72243.0,Colloid acne,Diagnosis of Acne,201218001
+Acne,M261600,1654.0,Cystic acne,Diagnosis of Acne,13277001
+Acne,M261900,31828.0,Occupational acne,Diagnosis of Acne,201220003
+Acne,M261A00,4360.0,Pustular acne,Diagnosis of Acne,59172008
+Acne,M261B00,32041.0,Steroid acne,Diagnosis of Acne,201222006
+Acne,M261C00,21182.0,Tropical acne,Diagnosis of Acne,10954006
+Acne,M261F00,53994.0,Acne fulminans,Diagnosis of Acne,4659007
+Acne,M261G00,43811.0,Acne agminata,Diagnosis of Acne,238752009
+Acne,M261J00,34937.0,Acne necrotica,Diagnosis of Acne,45072005
+Acne,M261.00,4065.0,Other acne,Diagnosis of Acne,11381005
+Acne,M261X00,25590.0,"Acne, unspecified",Diagnosis of Acne,
+Acne,M261z00,15655.0,Other acne NOS,Diagnosis of Acne,11381005
+Acne,M26y200,9058.0,Giant comedo,Diagnosis of Acne,403357002
+Acne,Myu6800,52909.0,[X]Other acne,Diagnosis of Acne,11381005
+Acne,Myu6F00,33367.0,"[X]Acne, unspecified",Diagnosis of Acne,11381005
+Acne,N25..00,25737.0,"SAPHO syndrome Synov, Acne, Pustul, Hyperost, Osteomyelitis",Diagnosis of Acne,60684003

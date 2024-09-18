@@ -1,0 +1,15 @@
+Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
+Spondylolisthesis,7J34112,43211.0,Buck fusion of lumbar spine for spondylolisthesis,Procedure for Spondylolisthesis,
+Spondylolisthesis,7J48500,11250.0,Spondylolisthesis operation,Procedure for Spondylolisthesis,265726007
+Spondylolisthesis,7J48511,63967.0,Gill excision of spondylolisthesis,Procedure for Spondylolisthesis,265726007
+Spondylolisthesis,7J48K00,20734.0,Reduction of spondylolisthesis and fusion,Procedure for Spondylolisthesis,178805003
+Spondylolisthesis,7J48L00,16743.0,Fusion spondylolisthesis in situ,Procedure for Spondylolisthesis,178806002
+Spondylolisthesis,N384000,65017.0,Dysplastic spondylolisthesis,Diagnosis of Spondylolisthesis,203682009
+Spondylolisthesis,N384100,61817.0,Isthmic spondylolisthesis,Diagnosis of Spondylolisthesis,203683004
+Spondylolisthesis,N384200,12371.0,Degenerative spondylolisthesis,Diagnosis of Spondylolisthesis,4046000
+Spondylolisthesis,N384300,66732.0,Pedicular spondylolisthesis,Diagnosis of Spondylolisthesis,203685006
+Spondylolisthesis,N384.00,2895.0,Acquired spondylolisthesis,Diagnosis of Spondylolisthesis,203681002
+Spondylolisthesis,Zw04600,52889.0,[Q] Spondylolisthesis grade 1,Diagnosis of Spondylolisthesis,463671000000101
+Spondylolisthesis,Zw04700,53931.0,[Q] Spondylolisthesis grade 2,Diagnosis of Spondylolisthesis,463681000000104
+Spondylolisthesis,Zw04800,73565.0,[Q] Spondylolisthesis grade 3,Diagnosis of Spondylolisthesis,391271000000107
+Spondylolisthesis,Zw04900,104348.0,[Q] Spondylolisthesis grade 4,Diagnosis of Spondylolisthesis,479481000000107

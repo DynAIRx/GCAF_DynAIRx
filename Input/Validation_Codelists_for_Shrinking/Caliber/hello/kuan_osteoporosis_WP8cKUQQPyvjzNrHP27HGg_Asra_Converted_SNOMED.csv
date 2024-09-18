@@ -1,0 +1,54 @@
+Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
+Osteoporosis,14GB.00,99817.0,History of osteoporosis,History of Osteoporosis,
+Osteoporosis,58EG.00,42354.0,Hip DXA scan result osteoporotic,Diagnosis of Osteoporosis,391070005
+Osteoporosis,58EM.00,39217.0,Lumbar DXA scan result osteoporotic,Diagnosis of Osteoporosis,391075000
+Osteoporosis,58EV.00,96342.0,Femoral neck DEXA scan result osteoporotic,Diagnosis of Osteoporosis,
+Osteoporosis,66a..00,11603.0,Osteoporosis monitoring,History of Osteoporosis,391017004
+Osteoporosis,9kj0.00,98760.0,Bone sparing drug treatment offered for osteoporosis - ESA,History of Osteoporosis,
+Osteoporosis,9kj..00,98433.0,Osteoporosis - enhanced services administration,History of Osteoporosis,
+Osteoporosis,9Od0.00,65163.0,Attends osteoporosis monitoring,History of Osteoporosis,391004002
+Osteoporosis,9Od2.00,92887.0,Osteoporosis monitoring default,History of Osteoporosis,391006000
+Osteoporosis,9Od3.00,68122.0,Osteoporosis monitoring first letter,History of Osteoporosis,391007009
+Osteoporosis,9Od4.00,93455.0,Osteoporosis monitoring second letter,History of Osteoporosis,391008004
+Osteoporosis,9Od5.00,102017.0,Osteoporosis monitoring third letter,History of Osteoporosis,391009007
+Osteoporosis,9Od6.00,105290.0,Osteoporosis monitoring verbal invitation,History of Osteoporosis,391010002
+Osteoporosis,9Od7.00,61121.0,Osteoporosis monitoring telephone invitation,History of Osteoporosis,391011003
+Osteoporosis,9Od8.00,96779.0,Osteoporosis monitoring deleted,History of Osteoporosis,391012005
+Osteoporosis,9Od9.00,25534.0,Osteoporosis monitoring check done,History of Osteoporosis,391013000
+Osteoporosis,9Od..00,36796.0,Osteoporosis monitoring administration,History of Osteoporosis,391003008
+Osteoporosis,N330000,14967.0,"Osteoporosis, unspecified",Diagnosis of Osteoporosis,64859006
+Osteoporosis,N330100,16307.0,Senile osteoporosis,Diagnosis of Osteoporosis,18040001
+Osteoporosis,N330200,9700.0,Postmenopausal osteoporosis,Diagnosis of Osteoporosis,102447009
+Osteoporosis,N330300,40428.0,Idiopathic osteoporosis,Diagnosis of Osteoporosis,
+Osteoporosis,N330400,62702.0,Dissuse osteoporosis,Diagnosis of Osteoporosis,53174001
+Osteoporosis,N330500,24093.0,Drug-induced osteoporosis,Diagnosis of Osteoporosis,14651005
+Osteoporosis,N330600,70349.0,Postoophorectomy osteoporosis,Diagnosis of Osteoporosis,203433000
+Osteoporosis,N330700,93655.0,Postsurgical malabsorption osteoporosis,Diagnosis of Osteoporosis,
+Osteoporosis,N330A00,31580.0,Osteoporosis in endocrine disorders,Diagnosis of Osteoporosis,203437004
+Osteoporosis,N330B00,3346.0,Vertebral osteoporosis,Diagnosis of Osteoporosis,203438009
+Osteoporosis,N330C00,16857.0,Osteoporosis localized to spine,Diagnosis of Osteoporosis,309745002
+Osteoporosis,N330D00,25650.0,Osteoporosis due to corticosteroids,Diagnosis of Osteoporosis,390833005
+Osteoporosis,N330.00,277.0,Osteoporosis,Diagnosis of Osteoporosis,64859006
+Osteoporosis,N330z00,34798.0,Osteoporosis NOS,Diagnosis of Osteoporosis,64859006
+Osteoporosis,N331200,39334.0,Postoophorectomy osteoporosis with pathological fracture,Diagnosis of Osteoporosis,203444008
+Osteoporosis,N331300,33526.0,Osteoporosis of disuse with pathological fracture,Diagnosis of Osteoporosis,203445009
+Osteoporosis,N331400,68019.0,Postsurgical malabsorption osteoporosis with path fracture,Diagnosis of Osteoporosis,
+Osteoporosis,N331500,46894.0,Drug-induced osteoporosis with pathological fracture,Diagnosis of Osteoporosis,203447001
+Osteoporosis,N331600,27597.0,Idiopathic osteoporosis with pathological fracture,Diagnosis of Osteoporosis,203448006
+Osteoporosis,N331800,17377.0,Osteoporosis + pathological fracture lumbar vertebrae,Diagnosis of Osteoporosis,203450003
+Osteoporosis,N331900,12673.0,Osteoporosis + pathological fracture thoracic vertebrae,Diagnosis of Osteoporosis,
+Osteoporosis,N331A00,48772.0,Osteoporosis + pathological fracture cervical vertebrae,Diagnosis of Osteoporosis,
+Osteoporosis,N331B00,38395.0,Postmenopausal osteoporosis with pathological fracture,Diagnosis of Osteoporosis,203453001
+Osteoporosis,N331H00,45736.0,Collapse of cervical vertebra due to osteoporosis,Diagnosis of Osteoporosis,311806008
+Osteoporosis,N331J00,5841.0,Collapse of lumbar vertebra due to osteoporosis,Diagnosis of Osteoporosis,311890007
+Osteoporosis,N331K00,19048.0,Collapse of thoracic vertebra due to osteoporosis,Diagnosis of Osteoporosis,311891006
+Osteoporosis,N331L00,4013.0,Collapse of vertebra due to osteoporosis NOS,Diagnosis of Osteoporosis,240198002
+Osteoporosis,N331M00,11503.0,Fragility fracture due to unspecified osteoporosis,Diagnosis of Osteoporosis,443165006
+Osteoporosis,N331M11,93705.0,Minimal trauma fracture due to unspecified osteoporosis,Diagnosis of Osteoporosis,
+Osteoporosis,N331N00,93497.0,Fragility fracture,Diagnosis of Osteoporosis,306171000000106
+Osteoporosis,N331N11,93981.0,Minimal trauma fracture,Diagnosis of Osteoporosis,
+Osteoporosis,N374600,36432.0,Osteoporotic kyphosis,Diagnosis of Osteoporosis,203657009
+Osteoporosis,NyuB000,57301.0,[X]Other osteoporosis with pathological fracture,Diagnosis of Osteoporosis,425371000000103
+Osteoporosis,NyuB100,41755.0,[X]Other osteoporosis,Diagnosis of Osteoporosis,64859006
+Osteoporosis,NyuB200,102730.0,[X]Osteoporosis in other disorders classified elsewhere,Diagnosis of Osteoporosis,64859006
+Osteoporosis,NyuB800,18825.0,[X]Unspecified osteoporosis with pathological fracture,Diagnosis of Osteoporosis,425371000000103
