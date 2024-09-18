@@ -1,0 +1,7 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+12295008,Bronchiectasis,Bronchiectasis,,['Lauren_codelist']
+12295008,Bronchiectasis NOS,Bronchiectasis,,['Lauren_codelist']
+195984007,Recurrent bronchiectasis,Bronchiectasis,,['Lauren_codelist']
+195985008,Post-infective bronchiectasis,Bronchiectasis,,['Lauren_codelist']
+23022004,Tuberculous bronchiectasis,Bronchiectasis,,['Lauren_codelist']
+77593006,Congenital bronchiectasis,Bronchiectasis,,['Lauren_codelist']

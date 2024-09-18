@@ -1,0 +1,5 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+233885007,Post infarction pericarditis,Recurrent pulmonary embolus,,['Lauren_codelist']
+309762007,Systemic lupus erythematosus with pericarditis,Recurrent pulmonary embolus,,['Lauren_codelist']
+756003,Chronic rheumatic myopericarditis,Recurrent pulmonary embolus,,['Lauren_codelist']
+78069008,Chronic rheumatic pericarditis,Recurrent pulmonary embolus,,['Lauren_codelist']

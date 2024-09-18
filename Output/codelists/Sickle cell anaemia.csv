@@ -1,0 +1,4 @@
+SnomedCTConceptId,Term,Disease,Otherinstructions,origin
+127041004,Sickle-cell thalassaemia,Sickle cell anaemia,,['Lauren_codelist']
+13886001,Sickle cell nephropathy,Sickle cell anaemia,,['Lauren_codelist']
+193370005,Proliferative retinopathy due to sickle cell disease,Sickle cell anaemia,,['Lauren_codelist']
