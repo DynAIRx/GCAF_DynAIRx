@@ -1,4 +1,0 @@
-Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
-Myasthenia gravis,F380100,66740.0,Juvenile or adult myasthenia gravis,Diagnosis of Myasthenia gravis,193207007
-Myasthenia gravis,F380.00,5655.0,Myasthenia gravis,Diagnosis of Myasthenia gravis,91637004
-Myasthenia gravis,F380z00,27515.0,Myasthenia gravis NOS,Diagnosis of Myasthenia gravis,91637004

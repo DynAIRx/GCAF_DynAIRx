@@ -1,9 +1,0 @@
-Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
-Secondary polycythaemia,D410000,15311.0,Stress polycythaemia,Diagnosis of Secondary polycythaemia,
-Secondary polycythaemia,D410011,17486.0,Spurious polycythaemia,Diagnosis of Secondary polycythaemia,
-Secondary polycythaemia,D410100,37129.0,High altitude polycythaemia,Diagnosis of Secondary polycythaemia,
-Secondary polycythaemia,D410200,17605.0,Polycythaemia due to cyanotic heart disease,Diagnosis of Secondary polycythaemia,191372008
-Secondary polycythaemia,D410300,44611.0,Polycythaemia due to cyanotic respiratory disease,Diagnosis of Secondary polycythaemia,191373003
-Secondary polycythaemia,D410400,44894.0,Renal polycythaemia,Diagnosis of Secondary polycythaemia,367328005
-Secondary polycythaemia,D410.00,5086.0,Secondary polycythaemia,Diagnosis of Secondary polycythaemia,44865000
-Secondary polycythaemia,D410z00,15301.0,Secondary polycythaemia NOS,Diagnosis of Secondary polycythaemia,44865000
