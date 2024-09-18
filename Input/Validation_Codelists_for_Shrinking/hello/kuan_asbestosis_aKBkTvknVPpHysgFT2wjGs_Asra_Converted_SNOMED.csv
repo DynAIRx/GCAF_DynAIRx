@@ -1,0 +1,5 @@
+Disease,CleansedReadCode,Medcode,ReadcodeDescr,Category,SNOMED CT Concept ID
+Asbestosis,H410.00,5005.0,Pleural plaque disease due to asbestosis,History of Asbestosis,233659006
+Asbestosis,H410.11,100994.0,Asbestos-induced pleural plaque,History of Asbestosis,233659006
+Asbestosis,H41..00,8303.0,Asbestosis,Diagnosis of Asbestosis,22607003
+Asbestosis,H41z.00,51410.0,Asbestosis NOS,Diagnosis of Asbestosis,22607003
