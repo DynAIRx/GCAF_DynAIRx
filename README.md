@@ -1,7 +1,7 @@
 # GCAF_DynAIRx
 
 # Introduction
-This repository is designed for Generalised Codelist Automation Framework (GCAF). It is part of DynAIRx Project (NIHR funded). It consist of multiple Pythoon Jupyter Notebooks that perform specific tasks of modules of GCAF showin Figure below:
+This repository is designed for Generalised Codelist Automation Framework (GCAF). It is part of DynAIRx Project (NIHR funded). It consist of multiple Python Jupyter Notebooks that perform specific tasks of modules of GCAF shown Figure below:
 
 <!-- mapping files and utlity functions for conversion, grouping, and preparation of training data. Baseline database may consist of SNOMED, cvt codes, read codes, conditions/terms, descriptions etc.
 
