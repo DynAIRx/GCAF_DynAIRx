@@ -57,3 +57,25 @@ This file is performas task of module GCAF Codelist Comparison for Load Reductio
 - <b>About `Baseline2_Codelist.csv`</b>
     The eFI refers to the electronic Frailty Index - a very successful clinical tool that has been deployed in all major GP systems. Sam Relton and Andy Clegg are currently finishing off the eFI2 project which expands upon this initial work to build prediction models. The SNOMED codes here are the basis of that work, used to define 80 long-term conditions that are used to predict mortality, hospitalisation with a fall, requirement for a homecare package, and nursing home admission (all measured as binary outcomes within the next 12 months).
 
+
+## Citation
+
+If you use this work in your research or project, please cite the following paper:
+
+Aslam, A., Walker, L., Abaho, M., Cant, H., O'Connell, M., Abuzour, A. S., Hama, L., Schofield, P., Mair, F.S., Ruddle, R.A., Popoola, O., Sperrin, M., Tsang, J.Y., Shantsila, E., Gabbay, M., Clegg, A., Woodall, A.A., Buchan, I., & Relton, S. D. (2024). *An Automation Framework for Clinical Codelist Development Validated with UK Data from Patients with Multiple Long-term Conditions*. **medRxiv**. [https://doi.org/10.1101/2024.09.25.24314215](https://doi.org/10.1101/2024.09.25.24314215)
+
+You can access the full paper [here](https://www.medrxiv.org/content/early/2024/09/26/2024.09.25.24314215.full.pdf).
+
+### BibTeX Code for Paper in Latex
+
+@article {Aslam2024.09.25.24314215, <br>
+	author = {Aslam, A. and Walker, L. and Abaho, M. and Cant, H. and O Connell, M. and Abuzour, A. S. and Hama, L. and Schofield, P. and Mair, F.S. and Ruddle, R.A. and Popoola, O. and Sperrin, M. and Tsang, J.Y. and Shantsila, E. and Gabbay, M. and Clegg, A. and Woodall, A.A. and Buchan, I. and Relton, S. D.},<br>
+	title = {An Automation Framework for Clinical Codelist Development Validated with UK Data from Patients with Multiple Long-term Conditions}, <br>
+	elocation-id = {2024.09.25.24314215}, <br>
+	year = {2024}, <br>
+	doi = {10.1101/2024.09.25.24314215}, <br>
+	publisher = {Cold Spring Harbor Laboratory Press}, <br>
+	URL = {https://www.medrxiv.org/content/early/2024/09/26/2024.09.25.24314215}, <br>
+	eprint = {https://www.medrxiv.org/content/early/2024/09/26/2024.09.25.24314215.full.pdf}, <br>
+	journal = {medRxiv}
+}
