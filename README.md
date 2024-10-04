@@ -58,6 +58,10 @@ This file is performas task of module GCAF Codelist Comparison for Load Reductio
     The eFI refers to the electronic Frailty Index - a very successful clinical tool that has been deployed in all major GP systems. Sam Relton and Andy Clegg are currently finishing off the eFI2 project which expands upon this initial work to build prediction models. The SNOMED codes here are the basis of that work, used to define 80 long-term conditions that are used to predict mortality, hospitalisation with a fall, requirement for a homecare package, and nursing home admission (all measured as binary outcomes within the next 12 months).
 
 
+# Codelists
+- <b>Where can I find generated codelists?</b> <br>
+As this is Generalized framework which can be used for any project to generate codelists, we uploaded DynIARx generated codelists in separate repsotory. Please use this [link](https://github.com/DynAIRx/Codelists_DynAIRx) for downloading all DynAIRx Codelists.
+
 ## Citation
 
 If you use this work in your research or project, please cite the following paper:
@@ -79,3 +83,9 @@ You can access the full paper [here](https://www.medrxiv.org/content/early/2024/
 	eprint = {https://www.medrxiv.org/content/early/2024/09/26/2024.09.25.24314215.full.pdf}, <br>
 	journal = {medRxiv}
 }
+
+## Author
+- **Dr Asra Aslam** _(onbehalf of DynAIRx)_
+    - GitHub: [@AsraAslam7] [GitHub](https://github.com/johndoe), [LinkedIn](https://www.linkedin.com/in/asra-aslam-phd-501a4261/), [HomePage](https://www.asraaslam.com/)
+    - Email: a.aslam2@leeds.ac.uk, asra.aslam@outlook.com
+    
