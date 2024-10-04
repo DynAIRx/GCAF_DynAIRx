@@ -60,7 +60,7 @@ This file is performas task of module GCAF Codelist Comparison for Load Reductio
 
 # Codelists
 - <b>Where can I find generated codelists?</b> <br>
-As this is Generalized framework which can be used for any project to generate codelists, we uploaded DynIARx generated codelists in separate repsotory. Please use this [link](https://github.com/DynAIRx/Codelists_DynAIRx) for downloading all DynAIRx Codelists.
+As this is Generalized framework which can be used for any project to generate codelists, we uploaded DynIARx generated codelists in separate repository. Please use this [link](https://github.com/DynAIRx/Codelists_DynAIRx) for downloading all DynAIRx Codelists.
 
 ## Citation
 
